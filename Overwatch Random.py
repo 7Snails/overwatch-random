@@ -1,5 +1,5 @@
 # Random Overwatch Character Picker --- Made by 7Snails
-# Version 0.0.1 -- Last updated: December 29, 2016
+# Version 0.0.2 -- Last updated: 6/2/2017
 
 import os
 import random
@@ -18,6 +18,7 @@ heroes = [
 'Törbjorn',
 'Widowmaker',
 'D.va',
+'Orisa',
 'Reinhardt',
 'Roadhog',
 'Winston',
