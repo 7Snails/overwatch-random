@@ -5,6 +5,7 @@ import os
 import random
 
 heroes = [
+'Doomfist',
 'Genji',
 'McCree',
 'Pharah',
